@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\Class08-LINQ\Lab08Linq\bin\Debug\netcoreapp2.0\Lab08Linq.deps.json
+C:\Users\acohr\source\repos\Class08-LINQ\Lab08Linq\bin\Debug\netcoreapp2.0\Lab08Linq.runtimeconfig.json
+C:\Users\acohr\source\repos\Class08-LINQ\Lab08Linq\bin\Debug\netcoreapp2.0\Lab08Linq.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\Class08-LINQ\Lab08Linq\bin\Debug\netcoreapp2.0\Lab08Linq.dll
+C:\Users\acohr\source\repos\Class08-LINQ\Lab08Linq\obj\Debug\netcoreapp2.0\Lab08Linq.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\Class08-LINQ\Lab08Linq\obj\Debug\netcoreapp2.0\Lab08Linq.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\Class08-LINQ\Lab08Linq\obj\Debug\netcoreapp2.0\Lab08Linq.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\Class08-LINQ\Lab08Linq\obj\Debug\netcoreapp2.0\Lab08Linq.AssemblyInfo.cs
+C:\Users\acohr\source\repos\Class08-LINQ\Lab08Linq\bin\Debug\netcoreapp2.0\Lab08Linq.pdb
+C:\Users\acohr\source\repos\Class08-LINQ\Lab08Linq\obj\Debug\netcoreapp2.0\Lab08Linq.dll
+C:\Users\acohr\source\repos\Class08-LINQ\Lab08Linq\obj\Debug\netcoreapp2.0\Lab08Linq.pdb
